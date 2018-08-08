@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
